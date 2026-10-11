@@ -1,0 +1,23 @@
+NOTICE
+ae-plugin-notes
+Copyright 2026 extynt
+
+Trademarks and third-party software
+
+extynt is an independent project. It is not affiliated with, endorsed by, sponsored by or approved by Adobe Inc. or any other company named here.
+
+Adobe, After Effects and ExtendScript are either registered trademarks or trademarks of Adobe Inc. in the United States and/or other countries. CEP, AEGP and the After Effects SDK are Adobe's extension and plug-in interfaces; they are named only to say what the notes are about.
+
+Apple, macOS and WebKit are trademarks of Apple Inc., registered in the U.S. and other countries. Apple Silicon and WKWebView are Apple product and API names.
+
+Microsoft and Windows are trademarks of the Microsoft group of companies.
+
+Google and Chrome are trademarks of Google LLC.
+
+Intel is a trademark of Intel Corporation. GitHub is a trademark of GitHub, Inc.
+
+Nothing here is Adobe code or documentation. Adobe effect and property match names (e.g. ADBE ...) are referenced only to interoperate with After Effects scripting. These notes are the author's own observations and measurements, not Adobe documentation, and may be wrong for your version.
+
+All other trademarks are the property of their respective owners. References are for identification and interoperability only.
+
+Provided as is, without warranty. Use with Adobe software is subject to Adobe's own license terms.
