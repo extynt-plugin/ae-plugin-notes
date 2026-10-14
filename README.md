@@ -5,6 +5,8 @@ For ExtendScript / CEP authors and AEGP plugin developers. Last measured: Octobe
 Measured facts about After Effects scripting (ExtendScript / CEP) and native
 AEGP plugin development. Every number here comes from a timed run on a real
 After Effects install, with the method written down so you can repeat it.
+A few notes (marked "Seen on") record behaviours observed on After Effects 25.6.6 and
+26.5.0 on Windows instead of timings.
 
 No Adobe SDK files, third-party plugin data or product internals are included.
 Where a claim could not be backed by a measurement, it is left out or marked.
@@ -38,7 +40,7 @@ The same text is in [NOTICE](NOTICE).
 | [aegp-executescript](notes/aegp-executescript.md) | `AEGP_ExecuteScript` cost, the shared `main` engine, `$.evalFile` scoping, library versioning |
 | [aegp-stream-gotchas](notes/aegp-stream-gotchas.md) | Expression text encoding, effect parameter 0, the `enabled` flag rule, quiet errors, native read speed |
 | [webview-panels-macos](notes/webview-panels-macos.md) | Hosting a WKWebView in an AEGP panel: keyboard routing, autocorrect stalls, modal loops |
-| [version-differences](notes/version-differences.md) | Behaviour that differs by AE version, and API oddities (no `isHidden` attribute, SVG import, `isModified`) |
+| [version-differences](notes/version-differences.md) | Behaviour that differs by AE version, and API oddities (no `isHidden` attribute, SVG import, `isModified`, new text justification, half-written frame PNGs, expression read-back, frame-grid times) |
 
 ## How the numbers were measured
 

@@ -1,8 +1,8 @@
 # Contributing
 
 The most useful contribution is a **measurement on a setup we have not
-tested**. Everything here was measured on After Effects 26.2.1, macOS, Apple
-M4 Pro. We would like to know what changes on:
+tested**. The timings here were measured on After Effects 26.2.1, macOS, Apple
+M4 Pro; a few version-difference notes were observed on 25.6.6 and 26.5.0 on Windows. We would like to know what changes on:
 
 - other AE versions (25.x, earlier 26.x, betas), especially for the absence of `isHidden`,
   `isModified`, `app.project.revision`, SVG import, and AEGP suite versions
