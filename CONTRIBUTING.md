@@ -2,10 +2,12 @@
 
 The most useful contribution is a **measurement on a setup we have not
 tested**. The timings here were measured on After Effects 26.2.1, macOS, Apple
-M4 Pro; a few version-difference notes were observed on 25.6.6 and 26.5.0 on Windows. We would like to know what changes on:
+M4 Pro; a few version-difference notes were observed on 25.6.6 and 26.5.0 on
+Windows. We would like to know what changes on:
 
-- other AE versions (25.x, earlier 26.x, betas), especially for the absence of `isHidden`,
-  `isModified`, `app.project.revision`, SVG import, and AEGP suite versions
+- other AE versions (25.x, earlier 26.x, betas), especially for the absence of
+  `isHidden`, `isModified`, `app.project.revision`, SVG import, and AEGP suite
+  versions
 - Windows (idle-hook latency, `evalScript` floor, `$.evalFile` scoping)
 - Intel Macs and other Apple Silicon generations
 - projects of very different size

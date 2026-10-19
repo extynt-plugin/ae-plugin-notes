@@ -1,12 +1,12 @@
 # ae-plugin-notes
 
-For ExtendScript / CEP authors and AEGP plugin developers. Last measured: October 2026.
+Measured facts about After Effects scripting (ExtendScript and CEP) and native
+AEGP plugin development. Last measured: October 2026.
 
-Measured facts about After Effects scripting (ExtendScript / CEP) and native
-AEGP plugin development. Every number here comes from a timed run on a real
-After Effects install, with the method written down so you can repeat it.
-A few notes (marked "Seen on") record behaviours observed on After Effects 25.6.6 and
-26.5.0 on Windows instead of timings.
+Every number here comes from a timed run on a real After Effects install, with
+the method written down so you can repeat it. A few notes, marked "Seen on",
+record behaviour observed on After Effects 25.6.6 and 26.5.0 on Windows rather
+than timings.
 
 No Adobe SDK files, third-party plugin data or product internals are included.
 Where a claim could not be backed by a measurement, it is left out or marked.
@@ -63,7 +63,7 @@ The same text is in [NOTICE](NOTICE).
 ## Contributing
 
 Measurements on other AE versions, other operating systems (Windows
-especially) and other hardware are very welcome. See
+especially) and other hardware are the most useful contribution. See
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
